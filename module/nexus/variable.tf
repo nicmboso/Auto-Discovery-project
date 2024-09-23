@@ -1,0 +1,11 @@
+variable "redhat" {}
+variable "pubsn1" {}
+variable "pub-key" {}
+variable "nexus-sg" {}
+variable "nexus-server-name" {}
+variable "nexus-ip" {}
+variable "nr-user-licence" {}
+variable "nr-acct-id" {}
+variable "nr-region" {}
+variable "pub-subnets" {}
+variable "cert-arn" {}
