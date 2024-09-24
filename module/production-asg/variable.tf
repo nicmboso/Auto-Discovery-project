@@ -1,0 +1,10 @@
+variable "redhat" {}
+variable "docker-sg" {}
+variable "pub-key" {}
+variable "nexus-ip" {}
+variable "nr-user-licence" {}
+variable "nr-acct-id" {}
+variable "nr-region" {}
+variable "prod-name" {}
+variable "vpc-zone-id" {}
+variable "lb-target-grp-arn" {}
